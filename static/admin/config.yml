@@ -1,6 +1,5 @@
 backend:
   base_url: http://localhost:3000
-  auth_endpoint: /path
   site_domain: cms.netlify.com
   name: github
   repo: mikeromero4/gatsby-starter-netlify-cms

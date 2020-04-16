@@ -1,9 +1,9 @@
 backend:
-  base_url:http://localhost:3000
-  auth_endpoint:/path
-  site_domain:cms.netlify.com
-  repo:mikeromero4/gatsby-starter-netlify-cms
-  api_root:http://localhost:3000/path
+  base_url: http://localhost:3000
+  auth_endpoint: /path
+  site_domain: cms.netlify.com
+  repo: mikeromero4/gatsby-starter-netlify-cms
+  api_root: http://localhost:3000/path
   name: git-gateway
   branch: master
   commit_messages:
